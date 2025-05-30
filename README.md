@@ -7,8 +7,6 @@
 
 ```
 TOGETHER_API_KEY=your_together_api_key_here
-DATABASE_URL=sqlite+aiosqlite:///./test.db
-CSV_PATH=app/data/freelancer_earnings_bd.csv
 ```
 
 ### 2. Создать виртуальное окружение и установить зависимости:
